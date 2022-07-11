@@ -10,7 +10,7 @@ public class Main {
         float e = 2.78f;
         double f = 4.5678;
         char g = 104;
-        // boolean h = b <= 18;
+        boolean h = true;
 
 
         // Задание 2..
