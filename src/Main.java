@@ -10,7 +10,7 @@ public class Main {
         float e = 2.78f;
         double f = 4.5678;
         char g = 104;
-        boolean h = a == 1;
+        boolean h = c > 1;
         System.out.println(a + ", " + b + ", "+ c + ", " + d + ", " +  e + ", " + f + ", " + g + ", " + h);
 
         // Задание 2..
@@ -26,7 +26,7 @@ public class Main {
         int banana = 5;                         //количество бананов
         int banaWeight = 80;                    //вес банана
         int milk = 200;                         //количество молока
-        double milkWeight = 105 / 100;
+        double milkWeight = 105.0 / 100.0;
         int icecream = 2;
         int icecreamWeight = 100;
         int egg = 4;
