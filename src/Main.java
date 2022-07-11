@@ -10,8 +10,8 @@ public class Main {
         float e = 2.78f;
         double f = 4.5678;
         char g = 104;
-        boolean h = c > 1;
-        System.out.println(a + ", " + b + ", "+ c + ", " + d + ", " +  e + ", " + f + ", " + g + ", " + h);
+        // boolean h = b <= 18;
+
 
         // Задание 2..
         System.out.println("Задание 2:");
